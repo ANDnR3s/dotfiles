@@ -1,0 +1,17 @@
+2022/06/01-18:06:25.404 3 Reusing MANIFEST /home/andnr3s/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/01-18:06:25.476 3 Recovering log #23
+2022/06/01-18:06:25.626 3 Level-0 table #26: started
+2022/06/01-18:06:25.854 3 Level-0 table #26: 451301 bytes OK
+2022/06/01-18:06:25.968 3 Delete type=0 #23
+2022/06/01-18:24:13.732 5 Level-0 table #29: started
+2022/06/01-18:24:13.773 5 Level-0 table #29: 100089 bytes OK
+2022/06/01-18:24:13.817 5 Delete type=0 #27
+2022/06/01-18:24:13.818 5 Compacting 4@0 + 1@1 files
+2022/06/01-18:24:13.907 5 Generated table #30@0: 154 keys, 571504 bytes
+2022/06/01-18:24:13.907 5 Compacted 4@0 + 1@1 files => 571504 bytes
+2022/06/01-18:24:13.948 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/01-18:24:13.950 5 Delete type=2 #29
+2022/06/01-18:24:13.950 5 Delete type=2 #19
+2022/06/01-18:24:13.950 5 Delete type=2 #24
+2022/06/01-18:24:13.951 5 Delete type=2 #26
+2022/06/01-18:24:13.951 5 Delete type=2 #22
